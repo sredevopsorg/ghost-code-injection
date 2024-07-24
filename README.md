@@ -9,11 +9,11 @@
 ### Nested Menu
 + Related blog: [Add a dropdown menu in Ghost](https://blog.rakihub.com/the-easiest-way-to-add-a-dropdown-menu-in-ghost/).
 + Jsdelivr code link:
-  + `<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rakihub/ghost-code-injection@main/nested-menu/built/nested-menu.min.css">`
-  + `<script src="https://cdn.jsdelivr.net/gh/rakihub/ghost-code-injection@main/nested-menu/built/nested-menu.min.js"></script>`
+  + `<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/sredevopsorg/ghost-code-injection@main/nested-menu/built/nested-menu.min.css">`
+  + `<script src="https://cdn.jsdelivr.net/gh/sredevopsorg/ghost-code-injection@main/nested-menu/built/nested-menu.min.js"></script>`
 
 
 ### Remove ghost in portal
 + Related blog: []
 + Jsdelivr link:
-  + `<script src="https://cdn.jsdelivr.net/gh/rakihub/ghost-code-injection@main/remove-ghost-in-portal/built/remove-ghost-in-portal.min.js"></script>`
+  + `<script src="https://cdn.jsdelivr.net/gh/sredevopsorg/ghost-code-injection@main/remove-ghost-in-portal/built/remove-ghost-in-portal.min.js"></script>`
